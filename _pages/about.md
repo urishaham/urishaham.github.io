@@ -31,7 +31,7 @@ My main area of interest is in developing methods for machine learning. In parti
 Whenever possible, I aim to base my work on a solid mathematical and theoretical basis, and to contribute to the theoretical understanding of machine learning and deep learning. Alongside my contributions to unsupervised learning, I have also contributed to supervised learning, in both theoretical and practical aspects.
   
 # 🔥 News
-- *2022.02*: &nbsp; [Discovery of Single Independent Latent Variable] (https://openreview.net/pdf?id=Owz3dDKM32p) was accepted to NeurIPS 2022.
+- *2022.02*: &nbsp; [Discovery of Single Independent Latent Variable](https://openreview.net/pdf?id=Owz3dDKM32p) was accepted to NeurIPS 2022.
 
 # 📝 Publications 
 
