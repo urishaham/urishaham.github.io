@@ -26,7 +26,9 @@ Since my graduation, I have been an assistant professor adjunct at Yale center f
 Apart of my academic endeavours, I until very recently, I proudly served as  a commander of an infantry battalion in reserves in the Israeli Defence Force. In addition, I am an amateur jazz pianist, and when time permits, I also like to run marathons. You can find my CV [here](https://docs.google.com/document/d/1FcUgjOmDqlQ5fSUlCSon7IB-bzAmpqLg5oExWqVf66o/edit).
 
 # Research
-My main area of interest is in developing methods for machine learning. In particular, a primary focus of mine lies in development of unsupervised learning tools for understanding data, its latent properties, learning useful representation for it and extraction of meaningful information from it. During the last ten years, my primary technical playground is deep learning, although I have also performed research in other areas of machine learning. Whenever possible, I aim to base my work on a solid mathematical and theoretical basis, and to contribute to the theoretical understanding of machine learning and deep learning. Alongside my contributions to unsupervised learning, I have also contributed to supervised learning, in both theoretical and practical aspects.
+My main area of interest is in developing methods for machine learning. In particular, a primary focus of mine lies in development of unsupervised learning tools for understanding data, its latent properties, learning useful representation for it and extraction of meaningful information from it. During the last ten years, my primary technical playground is deep learning, although I have also performed research in other areas of machine learning. 
+
+Whenever possible, I aim to base my work on a solid mathematical and theoretical basis, and to contribute to the theoretical understanding of machine learning and deep learning. Alongside my contributions to unsupervised learning, I have also contributed to supervised learning, in both theoretical and practical aspects.
   
 # 🔥 News
 - *2022.02*: &nbsp; [Discovery of Single Independent Latent Variable] (https://openreview.net/pdf?id=Owz3dDKM32p) was accepted to NeurIPS 2022.
