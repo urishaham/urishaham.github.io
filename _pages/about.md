@@ -27,10 +27,6 @@ Apart of my academic endeavours, I until very recently, I proudly served as  a c
 
 # Research
 My main area of interest is in developing methods for machine learning. In particular, a primary focus of mine lies in development of unsupervised learning tools for understanding data, its latent properties, learning useful representation for it and extraction of meaningful information from it. During the last ten years, my primary technical playground is deep learning, although I have also performed research in other areas of machine learning. Whenever possible, I aim to base my work on a solid mathematical and theoretical basis, and to contribute to the theoretical understanding of machine learning and deep learning. Alongside my contributions to unsupervised learning, I have also contributed to supervised learning, in both theoretical and practical aspects.
-
-# Teaching
-- Seminar on Representation Learning (fall 2022)
-- Mathematical Methods for Data Science (spring 2023)
   
 # 🔥 News
 - *2022.02*: &nbsp; [Discovery of Single Independent Latent Variable] (https://openreview.net/pdf?id=Owz3dDKM32p) was accepted to NeurIPS 2022.
@@ -50,18 +46,28 @@ My main area of interest is in developing methods for machine learning. In parti
 </div>
 
 
+# 📖 Teaching
+- Seminar on Representation Learning (fall 2022)
+- Mathematical Methods for Data Science (spring 2023) 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💻 Students
+M.Sc students:
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- Yanir Buznah
+- Amitai Yaacobi
+- Ariel Maimon
+- Yahel Jacobs
+- Or Gottman
+- Shay Franchi
+- Avi Harrar
+- Shahar Linial
+- Lital Binyamin
+- Guy Ben Razon
+- Eitan Cohen
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+I am accepting new M.Sc. and Ph.D. students. Prospective students need to have a solid mathematical background, excellent coding skills and a lot of curiosity. They should also be available to work on campus 3 days a week.
+
+# Contact
+- uri.shaham at biu.ac.il
+- Building 109, room 46
